@@ -1,0 +1,30 @@
+html{
+	background-color: white;
+	color: black;
+}
+body{
+	font-size: 12px;
+	font-style: Helvetica,Arial,sans-serif;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: #37a;
+}
+a:hover{
+	text-decoration: none;
+	background-color: #37a;
+	color: white;
+}
+img{
+	border: none;
+}
+li{
+	list-style: none;
+}
+span{
+	color: #999;
+}
